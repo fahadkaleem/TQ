@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "414586235913",
+    "firebase_url": "https://tafseer-quran-d6ba2.firebaseio.com",
+    "project_id": "tafseer-quran-d6ba2",
+    "storage_bucket": "tafseer-quran-d6ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414586235913:android:fb9470417570cded",
+        "android_client_info": {
+          "package_name": "com.mohammedfahadkaleem.tafseerquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414586235913-e276c04mf67c7jeaekq6ammtkkmnc24b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohammedfahadkaleem.tafseerquran",
+            "certificate_hash": "0f734b4e84049de8ae42d0f8bc9eec5b58e9b652"
+          }
+        },
+        {
+          "client_id": "414586235913-1po4tcvsh3ufp35sin0lp5v5fel8bua4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3EN2ERIsPuixjaCnQ2I7LoXWgfbo0nI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414586235913-1po4tcvsh3ufp35sin0lp5v5fel8bua4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
